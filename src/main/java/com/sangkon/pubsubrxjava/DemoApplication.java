@@ -1,4 +1,4 @@
-package com.sangkon.rxjava;
+package com.sangkon.pubsubrxjava;
 
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import org.springframework.aop.interceptor.SimpleAsyncUncaughtExceptionHandler;

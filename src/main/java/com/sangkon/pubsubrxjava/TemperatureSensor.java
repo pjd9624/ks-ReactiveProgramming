@@ -1,4 +1,4 @@
-package com.sangkon.rxjava;
+package com.sangkon.pubsubrxjava;
 
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;

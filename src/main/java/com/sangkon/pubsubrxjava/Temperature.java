@@ -1,4 +1,4 @@
-package com.sangkon.rxjava;
+package com.sangkon.pubsubrxjava;
 
 public class Temperature {
     private final double value;
